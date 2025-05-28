@@ -46,8 +46,3 @@ Detección de anomalías, análisis de métricas clave (conversiones, ticket pro
 **Otras habilidades:** Documentación técnica, análisis cualitativo, storytelling con datos
 
 ---
-
-## 🎓 Educación
-
-- **Data Analyst Bootcamp** | TripleTen — 2024–2025  
-- **Lic. en Criminología y Criminalística** | CLEU CDMX — 2019–2021
