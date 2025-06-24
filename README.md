@@ -39,9 +39,13 @@ Detección de anomalías, análisis de métricas clave (conversiones, ticket pro
 
 ### 📱 Análisis comparativo de ingresos entre planes prepago de Megaline
 El objetivo es identificar patrones de consumo (llamadas, mensajes, datos móviles) y determinar qué tarifa genera mayores ingresos mensuales.
+
 Un procesamiento detallado para calcular el uso mensual de servicios y los ingresos generados por cada usuario.
+
 Un análisis comparativo entre tarifas y regiones.
+
 Pruebas estadísticas para validar si las diferencias observadas en ingresos son significativas.
+
 Finalmente, se presentan recomendaciones para el área de marketing, orientadas a optimizar campañas publicitarias basadas en los planes más rentables.
 
 
