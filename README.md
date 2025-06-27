@@ -37,15 +37,17 @@ Detección de anomalías, análisis de métricas clave (conversiones, ticket pro
 - Conversiones y cohortes de clientes.
 - Rentabilidad por fuente de adquisición.
 - 
-🧪 Análisis del embudo de conversión y test A/A/B en app de alimentos
+###🧪 Análisis del embudo de conversión y test A/A/B en app de alimentos
 Estudio del comportamiento del usuario en una aplicación móvil de delivery.
 Evaluación de embudos de eventos y efectividad de diseño mediante un test A/A/B.
 Uso de visualizaciones y pruebas estadísticas para comparar grupos experimentales.
 
-🏋️ Predicción de abandono en gimnasio Model Fitness
+
+###🏋️ Predicción de abandono en gimnasio Model Fitness
 Modelo de machine learning para predecir la pérdida de clientes.
 Segmentación de usuarios, análisis de factores clave de rotación y recomendaciones personalizadas.
 Estrategias de retención basadas en datos de comportamiento e interacción.
+
 
 ### 📱 Análisis comparativo de ingresos entre planes prepago de Megaline
 El objetivo es identificar patrones de consumo (llamadas, mensajes, datos móviles) y determinar qué tarifa genera mayores ingresos mensuales.
