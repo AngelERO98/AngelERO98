@@ -11,7 +11,7 @@ Apasionado por traducir datos en decisiones estratégicas con impacto real.
 Soy Licenciado en Criminología con una fuerte lógica investigativa que complementé con una formación intensiva en análisis de datos.  
 Mi enfoque está en resolver problemas complejos usando herramientas analíticas, visualización y estadística .
 
-Actualmente en búsqueda de una posición como **Analista de Datos Jr.**
+Actualmente en búsqueda de una posición como **Analista de Datos.**
 
 [🔗 LinkedIn](https://www.linkedin.com/in/angel-everardo-rodriguez-ortiz-8b9b14367/)
 
